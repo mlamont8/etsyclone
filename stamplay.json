@@ -1,0 +1,10 @@
+{
+  "appId": "mltangularetsy",
+  "apiKey": "40f9cca5a6b2f670beb645863dd8d7983960be548a618f68c8f30a5aa7b73fb2",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
